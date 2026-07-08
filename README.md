@@ -5,4 +5,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Gundekari-Srinidhi/JULY-2026/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+## String
+|  |
+| ------- |
+| [0038-count-and-say](https://github.com/Gundekari-Srinidhi/JULY-2026/tree/master/0038-count-and-say) |
 <!---LeetCode Topics End-->
