@@ -16,8 +16,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0598-range-addition-ii](https://github.com/Gundekari-Srinidhi/JULY-2026/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Gundekari-Srinidhi/JULY-2026/tree/master/0628-maximum-product-of-three-numbers) |
+| [1331-rank-transform-of-an-array](https://github.com/Gundekari-Srinidhi/JULY-2026/tree/master/1331-rank-transform-of-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Gundekari-Srinidhi/JULY-2026/tree/master/0628-maximum-product-of-three-numbers) |
+| [1331-rank-transform-of-an-array](https://github.com/Gundekari-Srinidhi/JULY-2026/tree/master/1331-rank-transform-of-an-array) |
+## Hash Table
+|  |
+| ------- |
+| [1331-rank-transform-of-an-array](https://github.com/Gundekari-Srinidhi/JULY-2026/tree/master/1331-rank-transform-of-an-array) |
 <!---LeetCode Topics End-->
