@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Gundekari-Srinidhi/JULY-2026/tree/master/0128-longest-consecutive-sequence) |
 | [0396-rotate-function](https://github.com/Gundekari-Srinidhi/JULY-2026/tree/master/0396-rotate-function) |
 | [0598-range-addition-ii](https://github.com/Gundekari-Srinidhi/JULY-2026/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Gundekari-Srinidhi/JULY-2026/tree/master/0628-maximum-product-of-three-numbers) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Gundekari-Srinidhi/JULY-2026/tree/master/0128-longest-consecutive-sequence) |
 | [1331-rank-transform-of-an-array](https://github.com/Gundekari-Srinidhi/JULY-2026/tree/master/1331-rank-transform-of-an-array) |
 ## Binary Search
 |  |
@@ -80,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/Gundekari-Srinidhi/JULY-2026/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/Gundekari-Srinidhi/JULY-2026/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Gundekari-Srinidhi/JULY-2026/tree/master/1757-recyclable-and-low-fat-products) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Gundekari-Srinidhi/JULY-2026/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
