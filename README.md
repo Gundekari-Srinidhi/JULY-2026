@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0168-excel-sheet-column-title](https://github.com/Gundekari-Srinidhi/JULY-2026/tree/master/0168-excel-sheet-column-title) |
 | [0396-rotate-function](https://github.com/Gundekari-Srinidhi/JULY-2026/tree/master/0396-rotate-function) |
 | [0598-range-addition-ii](https://github.com/Gundekari-Srinidhi/JULY-2026/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Gundekari-Srinidhi/JULY-2026/tree/master/0628-maximum-product-of-three-numbers) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0038-count-and-say](https://github.com/Gundekari-Srinidhi/JULY-2026/tree/master/0038-count-and-say) |
 | [0165-compare-version-numbers](https://github.com/Gundekari-Srinidhi/JULY-2026/tree/master/0165-compare-version-numbers) |
+| [0168-excel-sheet-column-title](https://github.com/Gundekari-Srinidhi/JULY-2026/tree/master/0168-excel-sheet-column-title) |
 ## Array
 |  |
 | ------- |
