@@ -19,4 +19,4 @@ class Solution:
                 return -1
             n += 1
         return 0
-            
+    
