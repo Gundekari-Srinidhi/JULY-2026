@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Gundekari-Srinidhi/JULY-2026/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/Gundekari-Srinidhi/JULY-2026/tree/master/0128-longest-consecutive-sequence) |
 | [0396-rotate-function](https://github.com/Gundekari-Srinidhi/JULY-2026/tree/master/0396-rotate-function) |
 | [0598-range-addition-ii](https://github.com/Gundekari-Srinidhi/JULY-2026/tree/master/0598-range-addition-ii) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Gundekari-Srinidhi/JULY-2026/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/Gundekari-Srinidhi/JULY-2026/tree/master/0128-longest-consecutive-sequence) |
 | [1331-rank-transform-of-an-array](https://github.com/Gundekari-Srinidhi/JULY-2026/tree/master/1331-rank-transform-of-an-array) |
 ## Binary Search
@@ -86,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Gundekari-Srinidhi/JULY-2026/tree/master/0128-longest-consecutive-sequence) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/Gundekari-Srinidhi/JULY-2026/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
