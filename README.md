@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Gundekari-Srinidhi/JULY-2026/tree/master/0043-multiply-strings) |
 | [0165-compare-version-numbers](https://github.com/Gundekari-Srinidhi/JULY-2026/tree/master/0165-compare-version-numbers) |
 | [0168-excel-sheet-column-title](https://github.com/Gundekari-Srinidhi/JULY-2026/tree/master/0168-excel-sheet-column-title) |
+| [0299-bulls-and-cows](https://github.com/Gundekari-Srinidhi/JULY-2026/tree/master/0299-bulls-and-cows) |
 ## Array
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Gundekari-Srinidhi/JULY-2026/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/Gundekari-Srinidhi/JULY-2026/tree/master/0128-longest-consecutive-sequence) |
+| [0299-bulls-and-cows](https://github.com/Gundekari-Srinidhi/JULY-2026/tree/master/0299-bulls-and-cows) |
 | [1331-rank-transform-of-an-array](https://github.com/Gundekari-Srinidhi/JULY-2026/tree/master/1331-rank-transform-of-an-array) |
 ## Binary Search
 |  |
@@ -105,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Gundekari-Srinidhi/JULY-2026/tree/master/0043-multiply-strings) |
+## Counting
+|  |
+| ------- |
+| [0299-bulls-and-cows](https://github.com/Gundekari-Srinidhi/JULY-2026/tree/master/0299-bulls-and-cows) |
 <!---LeetCode Topics End-->
