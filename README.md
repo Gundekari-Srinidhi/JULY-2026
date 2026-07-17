@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/Gundekari-Srinidhi/JULY-2026/tree/master/0038-count-and-say) |
+| [0165-compare-version-numbers](https://github.com/Gundekari-Srinidhi/JULY-2026/tree/master/0165-compare-version-numbers) |
 ## Array
 |  |
 | ------- |
@@ -92,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Gundekari-Srinidhi/JULY-2026/tree/master/0036-valid-sudoku) |
+## Two Pointers
+|  |
+| ------- |
+| [0165-compare-version-numbers](https://github.com/Gundekari-Srinidhi/JULY-2026/tree/master/0165-compare-version-numbers) |
 <!---LeetCode Topics End-->
