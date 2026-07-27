@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/Gundekari-Srinidhi/JULY-2026/tree/master/0165-compare-version-numbers) |
 | [0168-excel-sheet-column-title](https://github.com/Gundekari-Srinidhi/JULY-2026/tree/master/0168-excel-sheet-column-title) |
 | [0299-bulls-and-cows](https://github.com/Gundekari-Srinidhi/JULY-2026/tree/master/0299-bulls-and-cows) |
+| [0844-backspace-string-compare](https://github.com/Gundekari-Srinidhi/JULY-2026/tree/master/0844-backspace-string-compare) |
 ## Array
 |  |
 | ------- |
@@ -111,11 +112,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0165-compare-version-numbers](https://github.com/Gundekari-Srinidhi/JULY-2026/tree/master/0165-compare-version-numbers) |
+| [0844-backspace-string-compare](https://github.com/Gundekari-Srinidhi/JULY-2026/tree/master/0844-backspace-string-compare) |
 ## Simulation
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Gundekari-Srinidhi/JULY-2026/tree/master/0043-multiply-strings) |
 | [0735-asteroid-collision](https://github.com/Gundekari-Srinidhi/JULY-2026/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/Gundekari-Srinidhi/JULY-2026/tree/master/0844-backspace-string-compare) |
 ## Counting
 |  |
 | ------- |
@@ -135,4 +138,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Gundekari-Srinidhi/JULY-2026/tree/master/0020-valid-parentheses) |
 | [0735-asteroid-collision](https://github.com/Gundekari-Srinidhi/JULY-2026/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/Gundekari-Srinidhi/JULY-2026/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
