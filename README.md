@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Gundekari-Srinidhi/JULY-2026/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/Gundekari-Srinidhi/JULY-2026/tree/master/0128-longest-consecutive-sequence) |
+| [0137-single-number-ii](https://github.com/Gundekari-Srinidhi/JULY-2026/tree/master/0137-single-number-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/Gundekari-Srinidhi/JULY-2026/tree/master/0209-minimum-size-subarray-sum) |
 | [0396-rotate-function](https://github.com/Gundekari-Srinidhi/JULY-2026/tree/master/0396-rotate-function) |
 | [0598-range-addition-ii](https://github.com/Gundekari-Srinidhi/JULY-2026/tree/master/0598-range-addition-ii) |
@@ -115,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0299-bulls-and-cows](https://github.com/Gundekari-Srinidhi/JULY-2026/tree/master/0299-bulls-and-cows) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0137-single-number-ii](https://github.com/Gundekari-Srinidhi/JULY-2026/tree/master/0137-single-number-ii) |
 <!---LeetCode Topics End-->
