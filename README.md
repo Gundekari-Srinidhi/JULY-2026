@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Gundekari-Srinidhi/JULY-2026/tree/master/0396-rotate-function) |
 | [0598-range-addition-ii](https://github.com/Gundekari-Srinidhi/JULY-2026/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Gundekari-Srinidhi/JULY-2026/tree/master/0628-maximum-product-of-three-numbers) |
+| [0735-asteroid-collision](https://github.com/Gundekari-Srinidhi/JULY-2026/tree/master/0735-asteroid-collision) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Gundekari-Srinidhi/JULY-2026/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1331-rank-transform-of-an-array](https://github.com/Gundekari-Srinidhi/JULY-2026/tree/master/1331-rank-transform-of-an-array) |
 ## Sorting
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Gundekari-Srinidhi/JULY-2026/tree/master/0043-multiply-strings) |
+| [0735-asteroid-collision](https://github.com/Gundekari-Srinidhi/JULY-2026/tree/master/0735-asteroid-collision) |
 ## Counting
 |  |
 | ------- |
@@ -132,4 +134,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Gundekari-Srinidhi/JULY-2026/tree/master/0020-valid-parentheses) |
+| [0735-asteroid-collision](https://github.com/Gundekari-Srinidhi/JULY-2026/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
